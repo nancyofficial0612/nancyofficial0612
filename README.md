@@ -97,6 +97,6 @@ XYZ University (Graduation Year: 2024)
 
 ### 🤝 Connect with me:
 <p>
-  <img src="https://img.shields.io/badge/Email-nancy.singh06@gmail.com-yellow.svg" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Email-nancyofficial06126@gmail.com-yellow.svg" alt="Email Badge"/>
 </p>
 <img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="200"/>
