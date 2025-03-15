@@ -54,8 +54,8 @@ I am a **Data Analyst** with a passion for leveraging data to make strategic bus
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech) in Computer Science**  
-XYZ University (Graduation Year: 2024)
+**PG-Data Science & Business Analytics (2024)**  
+Great Lakes Institute of Management & University of Texas at Austin
 
 ## 🎓 Certifications
 - **Google Data Analytics Professional Certificate**
