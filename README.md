@@ -1,7 +1,10 @@
 ## 👋 Hi, I'm Nancy Singh  
 <a href="https://www.linkedin.com/in/nancysingh0612/"> <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nancy Singh | LinkedIn" width="29px"/> </a>  
-<a> <img align="right" alt="Data Analyst" src="https://img.shields.io/badge/Profile%20Views-0-1abc9c.svg"/> </a>  
-<a href="https://nancy-singh-portfolio.com"> <img alt="E-Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF7F32.svg?style=for-the-badge&logoColor=Orange"/> </a>  
+
+<a href="https://nancy-singh-portfolio.com"> <img alt="UT Texas-Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF7F32.svg?style=for-the-badge&logoColor=Orange"/> </a>  
+
+<a> <img align="right" alt="Data Analyst" src="https://img.shields.io/badge/Profile%20Views-6379-1abc9c.svg"/> </a>  
+
 
 ## 🚀 Data Analyst | Passionate about Translating Data into Actionable Insights
 
