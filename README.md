@@ -60,8 +60,6 @@ Great Lakes Institute of Management & University of Texas at Austin
 ## 🎓 Certifications
 - **Google Data Analytics Professional Certificate**
 - **Power BI Certification** (Great Learning)
-- **Salesforce Business Analyst** (Udemy)
-- **Digital Marketing Certification** (360DigitMG, Panasonic)
 
 ## 💼 Data Science Portfolio
 
